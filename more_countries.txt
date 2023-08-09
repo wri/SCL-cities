@@ -1,0 +1,85 @@
+Greenland (Den)	GRL
+Martinique (Fr)	MTQ
+Cook Is (NZ)	COK
+Antigua & Barbuda	ATG
+Comoros	COM
+Kosovo	XK
+Svalbard (Nor)	SJM
+Jersey (UK)	JEY
+Cocos (Keeling) Is (Aus)	CCK
+St Pierre & Miquelon (Fr)	PM
+Grenada	GD
+Bermuda (UK)	BMU
+Abyei (disp)	Abyei
+Br Virgin Is (UK)	VG
+Niue (NZ)	NIU
+Maldives	MDV
+Akrotiri (UK)	Akrotiri
+Turks & Caicos Is (UK)	TCA
+Tonga	TON
+Northern Mariana Is (US)	MNP
+Sao Tome & Principe	STP
+American Samoa (US)	ASM
+Nauru	NRU
+Barbados	BRB
+French Polynesia (Fr)	PYF
+Anguilla (UK)	AIA
+Palau	PLW
+Seychelles	SYC
+Bouvet Island (Nor)	BV
+Pitcairn Is (UK)	PCN
+Wallis & Futuna (Fr)	WLF
+Cayman Is (UK)	CYM
+Dominica	DMA
+Falkland Islands (UK) (disp)	FLK
+Samoa	WSM
+Aruba (Neth)	ABW
+Faroe Is (Den)	FRO
+Marshall Is	MHL
+Trinidad & Tobago	TTO
+"Micronesia, Fed States of"	FSM
+Mayotte (Fr)	MYT
+Solomon Is	SLB
+Montserrat (UK)	MSR
+Spain [Canary Is]	IC
+St Kitts & Nevis	KNA
+Kiribati	KIR
+St Helena (UK)	SH
+Clipperton I (Fr)	CP
+Norfolk I (Aus)	NFK
+Guernsey (UK)	GG
+Tuvalu	TUV
+Br Virgin Islands (UK)	VG
+Taiwan	TWN
+St Lucia	LCA
+Jan Mayen (Nor)	SJM
+Tokelau (NZ)	TKL
+Christmas I (Aus)	CX
+S Georgia & S Sandwich Is (UK)	GS
+Antarctica	AQ
+St Vincent & the Grenadines	VCT
+Vanuatu	VUT
+US Virgin Is (US)	VIR
+Wake I (US)	WK
+St Barthelemy (Fr)	BL
+Isle of Man (UK)	IMN
+Portugal [Madeira Is]	PT-30
+Portugal [Azores]	PT-20
+Liancourt Rocks (disp)	disp-JPN-KOR
+Aksai Chin (disp)	disp-CHN-IND
+Dramana-Shakatoe (disp)	disp-BTN-CHN
+Coral Sea Is (Aus)	AUS
+Spratly Is (disp)	disp-CHN-TWN
+CH-IN (disp)	disp-CHN-IND
+Paracel Is (disp)	disp-CHN-VNM
+No Man's Land (disp)	disp-ISR-PSE
+Senkakus (disp)	disp-CHN-JPN
+Kalapani (disp)	disp-IND-NPL
+Dragonja (disp)	disp-HRV-SVN
+Sanafir & Tiran Is. (disp)	disp-EGY-SAU
+Demchok (disp)	disp-CHN-IND
+Ashmore & Cartier Is (Aus)	AUS
+Koualou (disp)	disp-BEN-BFA
+Isla Brasilera (disp)	disp-BRA-URY
+Siachen-Saltoro (disp)	disp-IND-PAK
+"Micronesia, Fed States of"	FSM
