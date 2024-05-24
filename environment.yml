@@ -1,0 +1,13 @@
+name: scl-cities
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - requests
+  - numpy
+  - pandas
+  - shapely
+  - geopandas
+  - geemap
+  - earthengine-api
+  - networkx

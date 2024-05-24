@@ -1,0 +1,5 @@
+"indicator","final","check"
+"CTY-04","output/scl_results/CTY-4_GHGemissions_v7.csv","CTY-4_GHGemissions_v7.csv"
+"CTY-05","output/scl_results/CTY-5_landconsumption_changerate_v7.csv","CTY-5_landconsumption_changerate_v7.csv"
+"CTY-10","output/scl_results/CTY-10_air-pollutant-exceedance-days_v7.csv","CTY-10_air-pollutant-exceedance-days_v7.csv"
+"CTY-11","output/scl_results/CTY-11_uhi_v7.csv","CTY-11_uhi_v7.csv"
