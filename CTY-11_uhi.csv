@@ -1,4 +1,4 @@
-geography,country,pop-averaged_summer_nighttime_uhi,pop-averaged_summer_daytime_uhi
+geo,country,pop-averaged_summer_nighttime_uhi,pop-averaged_summer_daytime_uhi
 0,global,0.7241323734760368,1.515757849506969
 1,AFG,0.11565551218428112,-0.017058682906900872
 2,AGO,0.05829662814485242,2.8603193556273734
